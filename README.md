@@ -1,1 +1,1 @@
-# nosql-challenge
+An evaluation of the ratings data from the UK Food Standards Agency of various establishments in the United Kingdom.
